@@ -1,7 +1,7 @@
 import numpy as np
 import copy
 import matplotlib.pyplot as plt
-from B07_AFSIndividual import AFSIndividual
+from AFSIndividual import AFSIndividual
 """
 人工鱼群算法步骤：
 （1）初始化：
